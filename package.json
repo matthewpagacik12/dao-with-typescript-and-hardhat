@@ -1,0 +1,28 @@
+{
+  "name": "dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.3",
+    "@types/chai": "^4.3.3",
+    "@types/node": "^18.11.3",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.12.0",
+    "hardhat-deploy": "^0.11.18",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {}
+}
